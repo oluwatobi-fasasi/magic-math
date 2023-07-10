@@ -1,6 +1,4 @@
 
-<img width="558" alt="calculator" src="https://github.com/oluwatobi-fasasi/magic-math/assets/106747387/9877a948-1c7a-426b-88d9-b436cd8593eb">
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -20,7 +18,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Leaderboard website <a name="about-project"></a>
+# 📖 Math Magician website <a name="about-project"></a>
 
 "Math Magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
