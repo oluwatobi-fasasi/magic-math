@@ -25,7 +25,7 @@ function Quotes() {
       setLoading(false);
     };
     rawData();
-  }, []);
+  }, [setLoading]);
 
   if (loading) {
     return <div>Loading Quotes.....</div>;
