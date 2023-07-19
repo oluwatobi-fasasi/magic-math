@@ -28,11 +28,11 @@ function Quotes() {
   }, []);
 
   if (loading) {
-    return <div>Loading Quotes.....</div>;
+    return <div className="text-6xl text-center pt-8 text-orange-400">Loading Quotes.....</div>;
   } if (errors) {
     return <div>Error quote received</div>;
   } if (quotes) {
-    return <div>{quotes[0].quote}</div>;
+    return <div className="m-60 text-center text-4xl">{quotes[0].quote}</div>;
   }
 }
 
